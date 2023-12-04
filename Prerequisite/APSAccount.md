@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Prerequsite
-nav_order: 2
-description: "prerequsite"
-permalink: /prerequsite/APSAccount
-parent: prerequsite
+title: APSAccount
+nav_order: 1
+description: "APSAccount"
+permalink: /Prerequisite/APSAccount
+parent: Prerequisite
 ---
 
 # APSAccount

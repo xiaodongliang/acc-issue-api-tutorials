@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Prerequsite
+title: Prerequisite
 nav_order: 2
-description: "prerequsite"
-permalink: /prerequsite
+description: "Prerequisite"
+permalink: /Prerequisite
 has_children: true
 ---
 
