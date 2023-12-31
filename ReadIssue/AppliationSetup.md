@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Applicaton Setup of Table View
+title: Applicaton Setup
 nav_order: 1
 description: "Applicaton Setup of Table View"
 permalink: /ReadIssue/TableView/ApplicationSetup
