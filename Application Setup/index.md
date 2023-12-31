@@ -1,13 +1,13 @@
 ---
 layout: default
-title: APSAccount
-nav_order: 1
-description: "APSAccount"
-permalink: /Prerequisite/APSAccount
-parent: Prerequisite
+title: Application Setup
+nav_order: 3
+description: "Application Setup"
+permalink: /ApplicationSetup
+has_children: true
 ---
 
-# APSAccount
+# Prerequsite
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
