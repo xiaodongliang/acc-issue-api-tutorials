@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prerequisite
-nav_order: 2
+nav_order: 1
 description: "Prerequisite"
 permalink: /Prerequisite
 has_children: true

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Issue Basic
-nav_order: 1
-description: "Issue Basic"
+title: Knowledge of Issue and APIs
+nav_order: 2
+description: "Knowledge of Issue and APIs"
 permalink: /Prerequisite/IssueBasic
 parent: Prerequisite
 ---
 
-# Issue Basic
+# Knowledge of Issue and APIs
 
 This is 

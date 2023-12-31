@@ -12,19 +12,19 @@ This page is the main entry of this tutorial. It describes what the tutorial wou
 
 ## Tutorial Structure
 
-Prerequisites
+### Prerequisites
     -  Account and Provisioning
     -  Knowledge of Issue and APIs
     -  Other Technologies in Tutorial
 
-Read Issue Data
+### Read Issue Data
     -  Table View
     -  Export to CSV
     -  Connect to Chart - Dashborad
     -  View Pushpin Issue
     -  Advanced Scenarios
 
-Write Issue Data
+### Write Issue Data
     - Create and Modify Single Common Issue
     - Import Issues from csv
     - Create Pushpin Issue
