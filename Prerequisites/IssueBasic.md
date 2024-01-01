@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Knowledge of Issue and APIs
+title: Knowledge of Issues
 nav_order: 2
-description: "Knowledge of Issue and APIs"
+description: "Knowledge of Issues"
 permalink: /Prerequisites/IssueBasic
 parent: Prerequisites
 ---
