@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Get Issue Data
-nav_order: 3
+nav_order: 4
 description: "Get Issue Data"
-permalink: /ReadIssue/TableView/GetIssueData
+permalink: /ReadIssue/BasicExport/GetIssueData
 has_children: false
-parent: Table View
+parent: Basic Export
 grand_parent: Read Issue
 
 ---

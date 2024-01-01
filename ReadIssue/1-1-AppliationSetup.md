@@ -3,9 +3,9 @@ layout: default
 title: Applicaton Setup
 nav_order: 1
 description: "Applicaton Setup of Table View"
-permalink: /ReadIssue/TableView/ApplicationSetup
+permalink: /ReadIssue/BasicExport/ApplicationSetup
 has_children: false
-parent: Table View
+parent: Basic Export
 grand_parent: Read Issue
 
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
 title: View in UI
-nav_order: 4
+nav_order: 5
 description: "View in UI"
-permalink: /ReadIssue/TableView/ViewInUI
+permalink: /ReadIssue/BasicExport/ViewInUI
 has_children: false
-parent: Table View
+parent: Basic Export
 grand_parent: Read Issue
 
 ---
