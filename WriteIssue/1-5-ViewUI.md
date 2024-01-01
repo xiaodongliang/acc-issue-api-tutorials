@@ -6,7 +6,7 @@ description: "View and UIe"
 permalink: /WriteIssue/BasicWrite/ViewUI
 has_children: false
 parent: Basic Write
-grand_parent: Write Issue
+grand_parent: Create and Modify Issue
 
 ---
 

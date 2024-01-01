@@ -13,22 +13,26 @@ This page is the main entry of this tutorial. It describes what the tutorial wou
 ## Tutorial Structure
 
 ### Prerequisites
-    -  Account and Provisioning
-    -  Knowledge of Issue and APIs
-    -  Other Technologies in Tutorial
+-  Account and Provisioning
+-  Knowledge of Issue and APIs
+-  Other Technologies in Tutorial
 
-### Read Issue Data
-    -  Table View
-    -  Export to CSV
-    -  Connect to Chart - Dashborad
-    -  View Pushpin Issue
-    -  Advanced Scenarios
+### Read Issue
+-  Basic Export
+-  Advanced Scenarios
+    - Export Issues to CSV
+    - View Pushpin Issues
+    - Connect to Dashboard
+    - Download Attachment of Issues
+    - Get References of Issues
 
-### Write Issue Data
-    - Create and Modify Single Common Issue
-    - Import Issues from csv
-    - Create Pushpin Issue
-    - Advanced Scenarios
+### Write Issue
+-  Basic Write
+-  Advanced Scenarios
+    - Import CSV to Issues
+    - Create Pushpin Issues
+    - Add Attachment to Issues
+    - Build References for Issue
 
 
 

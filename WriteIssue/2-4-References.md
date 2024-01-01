@@ -6,7 +6,7 @@ description: "Build References"
 permalink: /WriteIssue/BuildReferences
 has_children: true
 parent: Advanced
-grand_parent: Write Issue
+grand_parent: Create and Modify Issue
 
 
 ---

@@ -5,7 +5,7 @@ nav_order: 1
 description: " Basic Write"
 permalink: /WriteIssue/ BasicWrite
 has_children: true
-parent: Write Issue
+parent: Create and Modify Issue
 
 ---
 

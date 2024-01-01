@@ -6,7 +6,7 @@ description: "Import from CSV"
 permalink: /WriteIssue/ImportfromCSV
 has_children: true
 parent: Advanced
-grand_parent: Write Issue
+grand_parent: Create and Modify Issue
 
 
 ---
