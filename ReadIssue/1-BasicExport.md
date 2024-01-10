@@ -18,4 +18,4 @@ parent: Read Issue
  - get definitions of issue data: issue types, root causes, custom attributes etc.
  - get issue data and orgnize them for table view
 
- ![all](./help/read.png)
+ ![all](../help/read.png)

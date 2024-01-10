@@ -12,4 +12,4 @@ grand_parent: Read Issue
 
 # Connect to Dashboard
  
-  ![all](./help/dashboard.png)
+  ![dashboard](../help/dashboard.png)

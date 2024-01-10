@@ -11,4 +11,4 @@ parent: Create and Modify Issue
 
 #  Basic Write
  
-  ![write](./help/write.png)
+  ![write](../help/write.png)
