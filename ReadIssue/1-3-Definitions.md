@@ -12,3 +12,9 @@ grand_parent: Read Issue
 
 # Definitions
  
+ This page describes how to get some data of definitions:
+ - types and subtypes
+ - root casues
+ - custom attributes definitions
+ - project users, roles and companies
+

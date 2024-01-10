@@ -13,7 +13,7 @@ This page is the main entry of this tutorial. It describes what the tutorial wou
 ## Tutorial Structure
 
 ### Prerequisites
--  Account and Provisioning
+-  Account Setup
 -  Knowledge of Issue and APIs
 -  Other Technologies in Tutorial
 
@@ -34,6 +34,7 @@ This page is the main entry of this tutorial. It describes what the tutorial wou
     - Add Attachment to Issues
     - Build References for Issue
 
+![all](./help/all.png)
 
 
 

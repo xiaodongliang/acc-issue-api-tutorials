@@ -11,4 +11,5 @@ grand_parent: Read Issue
 ---
 
 # View Pushpin Issue
- 
+
+![viewer](./help/all.png)

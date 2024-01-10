@@ -9,4 +9,4 @@ parent: Prerequisites
 
 # Account Setup
 
-This is 
+This page descibes the setup of APS account, ACC account and provisioning. It will also direct the users to enable Issue module in ACC. 
